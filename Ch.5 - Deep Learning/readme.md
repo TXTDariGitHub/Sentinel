@@ -7,3 +7,5 @@
 7. [Introdution to Deep Learning in Python](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-in-python)
 8. [TensorFlow Crash Course](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
 9. [TF Developer PC](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+10. [Introduction to Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+11. [Advanced Deep Learning using Keras](https://app.datacamp.com/learn/courses/advanced-deep-learning-with-keras)
