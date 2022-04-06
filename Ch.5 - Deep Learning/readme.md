@@ -3,3 +3,6 @@
 3. [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 4. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 5. [Data and Deployment Specialization](https://www.coursera.org/specializations/deep-learning)
+6. [Image Processing with Keras](https://app.datacamp.com/learn/courses/image-processing-with-keras-in-python)
+7. [Introdution to Deep Learning in Python](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-in-python)
+8. [TensorFlow Crash Course](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
