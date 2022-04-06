@@ -1,0 +1,5 @@
+1. [TensorFlow Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+2. [Machine Learning Engineering for Production Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+3. [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+4. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+5. [Data and Deployment Specialization](https://www.coursera.org/specializations/deep-learning)
