@@ -4,11 +4,11 @@
 
 2. What Feature is in FastAPI ?
 
-> Fast to run
-> Fast to code
-> Reduced number of bugs
-> Intuitive
-> Straightforward
-> Short
-> Robust
+> Fast to run  
+> Fast to code  
+> Reduced number of bugs  
+> Intuitive  
+> Straightforward  
+> Short  
+> Robust  
 > Standards-based
