@@ -12,3 +12,7 @@
 > Short  
 > Robust  
 > Standards-based
+
+3. Why use ```--reload``` when we're running the code ?
+
+> So when we're refreshing the API, it'll reload automatically
