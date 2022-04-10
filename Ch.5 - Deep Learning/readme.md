@@ -11,4 +11,5 @@
 11. [Advanced Deep Learning using Keras](https://app.datacamp.com/learn/courses/advanced-deep-learning-with-keras)
 
 Reference
-1. [TensorFlow Hub Tutorial](https://www.tensorflow.org/hub/tutorials)
+1. [TensorFlow Hub Tutorial](https://www.tensorflow.org/hub/tutorials)  
+2. [TensorFlow](https://www.tensorflow.org/tutorials)
